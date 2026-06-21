@@ -1,4 +1,4 @@
-# additiveSynth
+# Additive Synthesizer
 Additive synthesizer with reverb effect
 
 
